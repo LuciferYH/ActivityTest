@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityTest</string>
+    <string name="button1">button1</string>
+    <string name="textView">second</string>
+    <string name="textView3">third</string>
+    <string name="buttonSecond">buttonSecond</string>
+</resources>
